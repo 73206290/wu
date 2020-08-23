@@ -5,5 +5,6 @@ public class dugujiujian {
 		System.out.println("11");
 		System.out.println("88");
 		System.out.println("99");
+		System.out.println("Hehe");
 	}
 }
